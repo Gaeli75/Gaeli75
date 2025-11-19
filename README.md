@@ -1,7 +1,8 @@
 ## Hi, I'm Gael Fernando Fundo
 
 
-🧠 Currently pursuing a Master’s in Data Science.<br/>
+🧠 Graduated in Data Science @Manchester Metropolitan University 🎓.<br/>
+Chevening Scholar 2024/2025 <br/>
 📍 Manchester, United Kingdom<br/>
 
 ## 🌐 Socials:
