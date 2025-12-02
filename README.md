@@ -1,4 +1,4 @@
-## Hi, I'm Gael Fernando Fundo
+## Hi, I'm Fundo Fernando 
 
 
 🧠 Graduated in Data Science @Manchester Metropolitan University 🎓.<br/>
